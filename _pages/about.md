@@ -22,7 +22,7 @@ Yuchi Liu is a Phd student with the School of Computing, ANU College of Engineer
 <h2>Education</h2>
 
 * **Doctor of Philosophy** - PhD, Computer Science, The Australian National University (ANU)<!-- <sup>[1](#myfootnote1)</sup> -->, *Mar 2021 - present*
-* **Master of Philosophy** - MPhil, Computer Science, The University of Western Australia (ANU)<!-- <sup>[2](#myfootnote2)</sup> -->, *Mar 2019 - Mar 2021*
+* **Master of Philosophy** - MPhil, Computer Science, The Australian National University (ANU)<!-- <sup>[2](#myfootnote2)</sup> -->, *Mar 2019 - Mar 2021*
 * **Bachelor of Software Engineering (Honours)** - B.SE, Software Engineering, The Australian National University (ANU)<!-- <sup>[2](#myfootnote2)</sup> -->, *Feb 2017 - Dec 2018*
 
 <!-- <p>&nbsp;</p> -->
