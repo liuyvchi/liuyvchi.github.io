@@ -9,37 +9,21 @@ redirect_from:
 ---
 
 
-Lei Wang is a Research Fellow with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
+Yuchi Liu is a Phd student with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU) and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University).
 
-He is currently also a Computer Scientist with the Active Intelligence Australia Pty Ltd, Perth. He leads the research and development of commercial anomaly detection solutions, and the project has raised 1.2 million US dollars. Since then, he has been granted the Incentive Unit Award.
-
-Mr. Lei Wang is now also a Visiting Scientist in Machine Learning Research Group (MLRG) at Data61 (former NICTA), The Commonwealth Scientific and Industrial Research Organisation (CSIRO).
-
-Since 2018, he has been a full-time Computer Vision Researcher with iCetana Pty Ltd, Perth. He was a Visiting Researcher in MLRG at Data61/CSIRO. He was also a Visiting Researcher with the Department of Computer Science and Software Engineering, The University of Western Australia (UWA).
-
-Before starting his PhD at ANU and Data61/CSIRO, he has been offered a number of competitive full PhD scholarships including ARC Industrial Transformation Training Centre Scholarship, UWA International Fee Scholarship, University Postgraduate Award, Data61 PhD Scholarship, Data61 Top-up Scholarship and ANU HDR Fee Remission Merit Scholarship.
-
-He has published a large number of first-author papers during his PhD candidature in high quality venues (Rank A* conferences or journals with impact factor > 10.0) including CVPR, ICCV, ECCV, ACM MM, TPAMI and TIP under the supervision of [Dr. Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/) (Data61/CSIRO & ANU). He also received the Sang Uk Lee Best Student Paper Award from ACCV'22.
-
-His research interests include action recognition in videos, anomaly detection, video image processing, one- and few-shot learning, deep learning, tensor learning and domain adaptation.
-
-He is an IEEE Student Member and an ACM Student Member.
 
 <!-- <p>&nbsp;</p> -->
 
 <!-- Research interests
-* Action recognition
-* Anomaly detection
-* Video image processing
-* One- & few-shot learning
-* Deep learning
-* Tensor learning
-* Domain adaptation -->
+* Data-centric machine learning
+* Unsupervised model evaluation
+* Model robustness / risk -->
 
 <h2>Education</h2>
 
-* **Doctor of Philosophy** - PhD, Computer Science, The Australian National University (ANU)<!-- <sup>[1](#myfootnote1)</sup> -->, *22 July 2019 - present*
-* **Master of Professional Engineering** - MPE, Software Engineering, The University of Western Australia (UWA)<!-- <sup>[2](#myfootnote2)</sup> -->, *Feb 2016 - March 2018*
+* **Doctor of Philosophy** - PhD, Computer Science, The Australian National University (ANU)<!-- <sup>[1](#myfootnote1)</sup> -->, *Mar 2021 - present*
+* **Master of Philosophy** - MPhil, Computer Science, The University of Western Australia (ANU)<!-- <sup>[2](#myfootnote2)</sup> -->, *Mar 2019 - Mar 2021*
+* **Bachelor of Software Engineering (Honours)** - B.SE, Software Engineering, The Australian National University (ANU)<!-- <sup>[2](#myfootnote2)</sup> -->, *Feb 2017 - Dec 2018*
 
 <!-- <p>&nbsp;</p> -->
 
