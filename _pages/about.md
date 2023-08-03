@@ -33,5 +33,3 @@ Yuchi Liu is a Phd student with the School of Computing, ANU College of Engineer
   <li><a href="https://scholar.google.com/citations?user=fBQdhG0AAAAJ&hl=en">Google Scholar</a></li>
   <li><a href="https://comp.anu.edu.au/people/yuchi-liu/">Yuchi's ANU student profile</a></li> 
 </ul>
-
-<!--<p>&nbsp;</p>
