@@ -17,16 +17,16 @@ author_profile: true
 
 You can find my published articles on my [Google Scholar](https://scholar.google.com/citations?user=fBQdhG0AAAAJ&hl=en) profile.
 
-<h3>Conference/journal papers</h3>
+<h3>Conference papers</h3>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
-			<td class="gsc_a_t"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.pdf"><strong><span class="gsc_a_at">3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, P Koniusz</div>
-				<div class="gs_gray">Computer Vision and Pattern Recognition (CVPR), 5620-5621</div>
+			<td class="gsc_a_t"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.pdf"><strong><span class="gsc_a_at">How to Synthesize a Large-Scale and Trainable Micro-Expression Dataset?</span></strong></a>
+				<div class="gs_gray"><strong>Y Liu</strong>, Z Wang, T Gedeon, L Zheng Koniusz</div>
+				<div class="gs_gray">European Conference on Computer Vision (ECCV), pp. 38-55</div>
 			</td>
 			<td class="gsc_a_c">[<font color="red"><strong>A*</strong></font>]</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2023</span></td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2022</span></td>
 		</tr>
 		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Temporal-Viewpoint_Transportation_Plan_for_Skeletal_Few-shot_Action_Recognition_ACCV_2022_paper.pdf"><strong><span class="gsc_a_at">Temporal-Viewpoint Transportation Plan for Skeletal Few-shot Action Recognition</span></strong></a>
@@ -95,12 +95,13 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 	</tbody>
 </table>
 <!-- <h3>&nbsp;</h3> -->
-<h3>Patents</h3>
+<h3>Journal papers</h3>
 <table id="gsc_a_t">
 	<tbody id="gsc_a_b">
 		<tr class="gsc_a_tr" style="background-color:#FFFFE0">
-			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">System and Method of Detecting Anomalies from Mass Data</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong></div>
+			<td class="gsc_a_t"><a href=""><strong><span class="gsc_a_at">SMulti-network model training method, image annotation method and face image
+recognition method</span></strong></a>
+				<div class="gs_gray"><strong>Y Liu</strong></div>
 				<div class="gs_gray">US patent (provisional, SN 63/326,525)</div>
 			</td>
 <!-- 			<td class="gsc_a_c">&nbsp;</td> -->
@@ -124,46 +125,6 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 		</tr>
 	</tbody>
 </table>
-<!-- <p>&nbsp;</p> -->
-<h3>arXiv preprints</h3>
-<table id="gsc_a_t">
-	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2112.12668.pdf"><strong><span class="gsc_a_at">3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Naïve</span></strong></a>
-				<div class="gs_gray"><strong>L Wang</strong>, J Liu, P Koniusz</div>
-				<div class="gs_gray">arXiv preprint arXiv:2112.12668</div>
-			</td>
-			<td class="gsc_a_c">(an extended version has been <br>accepted by ACCV&#39;22 [oral])</td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
-		</tr>
-		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
-			<td class="gsc_a_t"><a href="https://arxiv.org/pdf/2110.05216.pdf"><strong><span class="gsc_a_at">High-order Tensor Pooling with Attention for Action Recognition</span></strong></a>
-				<div class="gs_gray">P Koniusz, <strong>L Wang</strong>, K Sun</div>
-				<div class="gs_gray">arXiv preprint arXiv:2110.05216</div>
-			</td>
-			<td class="gsc_a_c">(an extension of our TPAMI&#39;20)<br><a href="https://github.com/LeiWangR/HoTP" style="color:#000000;">Code (preprocessing)</a></td>
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
-		</tr>
-	</tbody>
-</table>
-<!-- <p>&nbsp;</p> -->
-<h3>Master&rsquo;s thesis</h3>
-<table id="gsc_a_t">
-	<tbody id="gsc_a_b">
-		<tr class="gsc_a_tr" style="background-color:#FFE4E1">
-			<td class="gsc_a_t"><a href="https://www.researchgate.net/profile/Lei_Wang51/publication/332369012_Analysis_and_Evaluation_of_Kinect-based_Action_Recognition_Algorithms/links/5cb001be4585156cd7916b18/Analysis-and-Evaluation-of-Kinect-based-Action-Recognition-Algorithms.pdf"><strong><span class="gsc_a_at">Analysis and Evaluation of Kinect-based Action Recognition Algorithms</span></strong></a><br />
-				<div class="gs_gray"><strong>L Wang</strong></div>
-				<div class="gs_gray">Master&rsquo;s thesis, School of the Computer Science and Software Engineering, The University of Western Australia</div>
-			</td>
-<!-- 			<td class="gsc_a_c">&nbsp;</td> -->
-			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2017</span></td>
-		</tr>
-	</tbody>
-</table>
-<p>&nbsp;</p>
 
-<font size="3" color="blue">
-	Light cyan highlights the research works during my PhD candidature and light yellow highlights my industrial research works.
-	My master's thesis is in misty rose color and other collaborative research works are in platinum color.
-	Last updated: 02/04/2023.	
-</font>
+
+
