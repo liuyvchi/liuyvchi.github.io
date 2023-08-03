@@ -48,6 +48,20 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 			</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
 		</tr>
+  		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
+			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756583"><strong><span class="gsc_a_at">Generalized alignment for multimodal physiological signal learning</span></strong></a>
+				<div class="gs_gray"><strong>Y Liu</strong>, Y Yao, Z Wang, J Plested, T Gedeon</div>
+				<div class="gs_gray">2019 International Joint Conference on Neural Networks (IJCNN), 1-10</div>
+			</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
+		</tr>
+  		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
+			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8852302"><strong><span class="gsc_a_at">Improved Techniques for Building EEG Feature Filters</span></strong></a>
+				<div class="gs_gray">Y Yao, J Plested, T Gedeon, <strong>,Y Liu</strong>, Z Wang</div>
+				<div class="gs_gray">2019 International Joint Conference on Neural Networks (IJCNN), 1-6</div>
+			</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
+		</tr>
 		
 	</tbody>
 </table>
