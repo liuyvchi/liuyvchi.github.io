@@ -8,8 +8,6 @@ author_profile: true
 <!-- Research experience
 ====== -->
 
-<!-- In academia, I focus on hypothesizing, researching, publishing papers, and teaching to advance the field of knowledge.
-
 <h2>Industry research</h2>
 
 * *08/2022-<font color="blue">present</font>*: **Research Intern**
