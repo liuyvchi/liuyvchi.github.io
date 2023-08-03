@@ -84,11 +84,11 @@ author:
   avatar           : "profile_yuchi.jpg" # "leiwang.jpg" # "lei-wang.jpg"
   bio              : "Phd sutdent at ANU"
   location         : # "Room N222, CSIT Building" # "Canberra ACT 2601"
-  employer         : "ANU & Data61/CSIRO" # "ANU" # "ANU, Canberra ACT 2601"  
+  employer         : #"ANU & Data61/CSIRO" # "ANU" # "ANU, Canberra ACT 2601"  
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=VWCZLXgAAAAJ&hl=en"
-  email            : "lei.w@anu.edu.au"
-  researchgate     : "https://www.researchgate.net/profile/Lei-Wang-358"
+  googlescholar    : "https://scholar.google.com/citations?user=fBQdhG0AAAAJ&hl=en"
+  email            : "yuchi.liu@anu.edu.au"
+  researchgate     : "https://www.researchgate.net/scientific-contributions/Yuchi-Liu-2177934202"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "lei-l-wang/"
-  orcid            : "https://orcid.org/0000-0002-8600-7099 "
+  linkedin         : #"lei-l-wang/"
+  orcid            : "https://orcid.org/0000-0001-9061-6180"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
