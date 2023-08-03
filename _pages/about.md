@@ -11,7 +11,7 @@ redirect_from:
 
 Yuchi Liu is a Phd student with the School of Computing, ANU College of Engineering, Computing and Cybernetics under the supervision of [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) (ANU). He is also co-surervsied by and [Prof. Tom Gedeon](https://staffportal.curtin.edu.au/staff/profile/view/tom-gedeon-5e48a1fd/) (Curtin University) and [Dr. Yifan Sun](https://yifansun-reid.github.io/) (Baidu Inc.).
 
-His resaerch interestes involved data-centric machine learning, unsupervsied model risk estimation, model robustness, etc.
+His resaerch interests involved data-centric machine learning, unsupervsied model risk estimation, model robustness, etc.
 
 
 <!-- <p>&nbsp;</p> -->
