@@ -11,15 +11,11 @@ My contact information is below.
 <table style="white-space:nowrap; width:100%; border: none;">
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Email address</th>
-    <td style="white-space:nowrap; border: none;">lei.w@anu.edu.au</td>
+    <td style="white-space:nowrap; border: none;">yuchi.liu@anu.edu.au</td>
   </tr>
   <tr>
     <th style="width:1px; white-space:nowrap; border: none;">Address/Office</th>
-    <td style="white-space:nowrap; border: none;">Room N218, CSIT Building <br> ANU Campus <br> Acton ACT 2601</td>
-  </tr>
-  <tr>
-    <th style="width:1px; white-space:nowrap; border: none;">Office hours</th>
-    <td style="white-space:nowrap; border: none;"> 9:00am-5:00pm (AEST) or <br> 10:00am-6:00pm (AEDT) <br> From Monday to Friday <br> <font color="blue">(subject to change)</font> </td>
+    <td style="white-space:nowrap; border: none;">Room N222H, CSIT Building <br> ANU Campus <br> Acton ACT 2601</td>
   </tr>
 </table>
 </div>
@@ -42,7 +38,7 @@ My contact information is below.
 <!-- <h2>Email Me</h2> -->
 
 
-If I can be of assistance, please contact me [via email](mailto:lei.w@anu.edu.au).
+If I can be of assistance, please contact me [via email](mailto:yuchi.liu@anu.edu.au).
 
 <!-- Please note that I only reply to emails from known senders (**or** emails with full name, institution/university name, and the purposes of emailing clearly stated).
 
