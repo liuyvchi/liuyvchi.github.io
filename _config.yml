@@ -274,12 +274,12 @@ defaults:
       layout: single
       author_profile: true
   # _skills
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
+  # - scope:
+  #     path: ""
+  #     type: projects
+  #   values:
+  #     layout: single
+  #     author_profile: true
 #   # _calendar
 #   - scope:
 #       path: ""
