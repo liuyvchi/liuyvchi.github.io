@@ -34,4 +34,5 @@ His research interests involve data-centric machine learning, unsupervised model
 <ul>
   <li><a href="https://scholar.google.com/citations?user=fBQdhG0AAAAJ&hl=en">Google Scholar</a></li>
   <li><a href="https://comp.anu.edu.au/people/yuchi-liu/">Yuchi's ANU student profile</a></li> 
+  <li><a href="https://liuyvchi.github.io/files/CV_Yuchi_Liu_2023.pdf">CV</a></li> 
 </ul>
