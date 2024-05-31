@@ -41,6 +41,13 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 			</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2021</span></td>
 		</tr>
+		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
+			<td class="gsc_a_t"><a href="https://link.springer.com/chapter/10.1007/978-3-030-58548-8_3"><strong><span class="gsc_a_at">Semi-siamese training for shallow face learning</span></strong></a>
+				<div class="gs_gray">H Du, H Shi, <strong>Y Liu</strong> J Wang, Z Lei, D Zeng, T Mei</div>
+				<div class="gs_gray">Computer Vision–ECCV 2020: 16th European Conference, Glasgow, U</div>
+			</td>
+			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2020</span></td>
+		</tr>
   		<tr class="gsc_a_tr" style="background-color:#E0FFFF">
 			<td class="gsc_a_t"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8756583"><strong><span class="gsc_a_at">A neural micro-expression recognizer</span></strong></a>
 				<div class="gs_gray"><strong>Y Liu</strong>, H Du, L Zheng, T Gedeon</div>
@@ -61,8 +68,7 @@ You can find my published articles on my [Google Scholar](https://scholar.google
 				<div class="gs_gray">2019 International Joint Conference on Neural Networks (IJCNN), 1-6</div>
 			</td>
 			<td class="gsc_a_y"><span class="gsc_a_h gsc_a_hc gs_ibl">2019</span></td>
-		</tr>
-		
+		</tr>	
 	</tbody>
 </table>
 
