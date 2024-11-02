@@ -10,7 +10,12 @@ author_profile: true
 
 <h2>Industry research</h2>
 
-* *08/2022 - <font color="blue">present</font>*: **Research Intern**
+* *07/2024 - <font color="blue">10/2024</font>*: **Research Intern**
+  * SonyAI 
+  * Manager: [Dr. Lingjuan Lyu](https://sites.google.com/view/lingjuan-lyu/home)
+  * Topic: Agent-based Expert Model Selection
+
+* *08/2022 - <font color="blue">05/2023</font>*: **Research Intern**
   * Baidu Research
   * Manager: [Dr. Yifan Sun](https://yifansun-reid.github.io/)
   * Topic: Unsupervised Model Evaluation
