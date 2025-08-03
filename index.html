@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yuchi Liu – Personal Website</title>
+  <!--
+    This site loosely follows the visual style of Zhongdao Wang’s personal
+    website, which uses a clean two‑column layout for the introduction
+    followed by clearly delineated sections for education, work, publications
+    and other accomplishments【354620941880693†L468-L484】.  The CSS below
+    adopts similar fonts, sizes and colours to achieve a comparable look.
+  -->
+  <style>
+    body {
+      margin: 0 auto;
+      padding: 10px;
+      max-width: 900px;
+      font: 14px/1.5 Helvetica, Arial, sans-serif;
+      color: #444;
+    }
+    h1, h2, h3 {
+      color: #111;
+      font-weight: 400;
+      margin-top: 0;
+    }
+    a {
+      color: #0099ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0;
+    }
+    td {
+      vertical-align: top;
+    }
+    name {
+      font-size: 32px;
+      font-weight: bold;
+    }
+    heading {
+      font-size: 22px;
+      font-weight: bold;
+      color: #111;
+    }
+    papertitle {
+      font-weight: bold;
+    }
+    .spacer {
+      display: block;
+      height: 20px;
+    }
+    ul, ol {
+      padding-left: 20px;
+      margin-top: 5px;
+    }
+    li {
+      margin-bottom: 6px;
+    }
+  </style>
+</head>
+<body>
+  <!-- Introduction section: two columns with a brief bio and a profile image -->
+  <table>
+    <tr>
+      <td style="padding:2.5%; width:60%;">
+        <p style="text-align:center; margin-bottom:8px;"><name>Yuchi Liu</name></p>
+        <p>
+          I am currently a final year PhD candidate at the College of Engineering,
+          Computing and Cybernetics, Australian National University (ANU),
+          supervised by  Prof. Liang Zheng. My research spans machine learning,
+          computer vision, data-centric AI and generative AI. I have gained
+          diverse industry experience through research internships at
+          Sony AI, Baidu, Microsoft Research Asia, JD.com and CloudWalk
+          Technology.
+        </p>
+        <p style="text-align:center; margin-top:10px;">
+          <a href="mailto:yuchi.liu@anu.edu.au">Email</a> &nbsp;/&nbsp;
+          <a href="CV_Yuchi_Liu_2025.pdf">CV</a> &nbsp;/&nbsp;
+          <a href="https://scholar.google.com/citations?user=fBQdhG0AAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp;
+          <a href="https://github.com/liuyvchi">GitHub</a>
+        </p>
+      </td>
+      <td style="padding:2.5%; width:40%; max-width:40%;">
+        <img src="images/profile.jpg" alt="Profile photo" style="width:100%; max-width:100%; border-radius:4px;">
+      </td>
+    </tr>
+  </table>
+
+  <span class="spacer"></span>
+
+  <!-- Education -->
+  <table>
+    <tr><td style="padding:20px; width:100%;">
+      <heading>Education</heading>
+      <ul>
+        <li><strong>Doctor of Philosophy</strong>, Australian National University, College of Engineering, Computing and Cybernetics – Supervisor:  Prof. Liang Zheng (Mar 2021 – present)</li>
+        <li><strong>Master of Philosophy</strong>, Australian National University, College of Engineering and Computer Science – Supervisor:  Prof. Liang Zheng (Mar 2019 – Mar 2021)</li>
+        <li><strong>Bachelor of Software Engineering (Honours)</strong>, Australian National University – Supervisor: Prof. Tom Gedeon (Mar 2017 – Dec 2018)</li>
+        <li><strong>Bachelor of Software Engineering</strong>, Chongqing University, College of Software Engineering (Sep 2014 – Jun 2016)</li>
+      </ul>
+    </td></tr>
+  </table>
+
+  <span class="spacer"></span>
+
+  <!-- Work Experience -->
+  <table>
+    <tr><td style="padding:20px; width:100%;">
+      <heading>Work Experience</heading>
+      <ul>
+        <li><strong>Sony AI, PPML Group Research Intern</strong>, Tokyo – Jul 2024 – Oct 2024<br>
+          Research on agent‑based model selection under Dr. Lingjuan Lyu.</li>
+        <li><strong>Baidu, Vision Technology Group Research Intern</strong>, Beijing – Jul 2022 – Jun 2023<br>
+          Model risk estimation supervised by Dr. Yifan Sun.</li>
+        <li><strong>Microsoft Research Asia, Multimedia Group Research Intern</strong>, Beijing – Feb 2022 – Jul 2022<br>
+          Investigated semi‑supervised visual object segmentation with Dr. Jinglu Wang.</li>
+        <li><strong>JD.com, AI Lab Algorithm Intern</strong>, Beijing – Aug 2019 – Mar 2020<br>
+          Worked on face recognition under Dr. Hailin Shi.</li>
+        <li><strong>CloudWalk Technology, Computer Vision Lab Algorithm Intern</strong>, Chongqing – Nov 2017 – Feb 2018<br>
+          Focused on model pruning for computer vision applications.</li>
+      </ul>
+    </td></tr>
+  </table>
+
+  <span class="spacer"></span>
+
+  <!-- Publications -->
+  <table>
+    <tr><td style="padding:20px; width:100%;">
+      <heading>Research</heading>
+      <ol>
+        <li>
+          <div><papertitle>Towards Hierarchical Multi‑Agent Workflows for Zero‑Shot Prompt Optimization</papertitle></div>
+          <div><strong>Yuchi Liu</strong>, Jaskirat Singh, Gaowen Liu, Ali Payani, Liang Zheng. ICLR 2025 Workshop on Reasoning and Planning for LLMs, 2025.</div>
+        </li>
+        <li>
+          <div><papertitle>Assessing Model Generalization in Vicinity</papertitle></div>
+          <div><strong>Yuchi Liu</strong>, Yifan Sun, Jingdong Wang, Liang Zheng. arXiv preprint, 2024.</div>
+        </li>
+        <li>
+          <div><papertitle>Optimizing Calibration by Gaining Aware of Prediction Correctness</papertitle></div>
+          <div><strong>Yuchi Liu</strong>, Lei Wang, Yuli Zou, James Zou, Liang Zheng. arXiv preprint, 2024.</div>
+        </li>
+        <li>
+          <div><papertitle>A study of using synthetic data for effective association knowledge learning</papertitle></div>
+          <div><strong>Yuchi Liu</strong>, Zhongdao Wang, Xiangxin Zhou, Liang Zheng. Multimedia Information Retrieval (20 (2): 194–206), 2023.</div>
+        </li>
+        <li>
+          <div><papertitle>How to synthesize a large‑scale and trainable micro‑expression dataset?</papertitle></div>
+          <div><strong>Yuchi Liu</strong>, Zhongdao Wang, Tom Gedeon, Liang Zheng. European Conference on Computer Vision (ECCV), 38–55, 2022.</div>
+        </li>
+        <li>
+          <div><papertitle>Boosting semi‑supervised face recognition with noise robustness</papertitle></div>
+          <div><strong>Yuchi Liu</strong>, Hailin Shi, Hang Du, Rui Zhu, Jun Wang, Liang Zheng, Tao Mei. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 32 (2): 778–787, 2021.</div>
+        </li>
+        <li>
+          <div><papertitle>Semi‑siamese training for shallow face learning</papertitle></div>
+          <div>Hang Du, Hailin Shi, <strong>Yuchi Liu</strong>, Jun Wang, Zhen Lei, Dan Zeng, Tao Mei. European Conference on Computer Vision (ECCV), 2020.</div>
+        </li>
+        <li>
+          <div><papertitle>A neural micro‑expression recognizer</papertitle></div>
+          <div><strong>Yuchi Liu</strong>, Heming Du, Liang Zheng, Tom Gedeon. IEEE Conference on Automatic Face and Gesture Recognition (FG), 1–4, 2019.</div>
+        </li>
+        <li>
+          <div><papertitle>Generalized alignment for multimodal physiological signal learning</papertitle></div>
+          <div><strong>Yuchi Liu</strong>, Yue Yao, Zhengjie Wang, Josephine Plested, Tom Gedeon. International Joint Conference on Neural Networks (IJCNN), 1–10, IEEE, 2019.</div>
+        </li>
+        <li>
+          <div><papertitle>Improved techniques for building EEG feature filters</papertitle></div>
+          <div>Yue Yao, Josephine Plested, Tom Gedeon, <strong>Yuchi Liu</strong>, Zhengjie Wang. International Joint Conference on Neural Networks (IJCNN), 1–6, IEEE, 2019.</div>
+        </li>
+      </ol>
+    </td></tr>
+  </table>
+
+  <span class="spacer"></span>
+
+  <!-- Awards -->
+  <table>
+    <tr><td style="padding:20px; width:100%;">
+      <heading>Awards</heading>
+      <ul>
+        <li>1st Place in the Recognition Challenge of the Second Facial Micro‑Expression Grand Challenge (MEGC2019), 2019.</li>
+        <li>Scholarship for Outstanding Students, Chongqing University, 2015.</li>
+      </ul>
+    </td></tr>
+  </table>
+
+  <span class="spacer"></span>
+
+  <!-- Projects -->
+  <table>
+    <tr><td style="padding:20px; width:100%;">
+      <heading>Selected Projects</heading>
+      <ul>
+        <li><strong>Speed Up Diffusion Models</strong> (Jun 2025 – present, supervisor – Prof. Liang Zheng): Developed a training‑free method to accelerate image generation inference by multiple times for diffusion models.</li>
+        <li><strong>Vision‑Language Model as Detection Agency</strong> (Jul 2024 – Oct 2023, manager – Dr. Lingjuan Lyu): Post‑trained vision–language models to act as an agent that automatically invokes appropriate detectors to boost detection performance in complex environments.</li>
+        <li><strong>Unsupervised Model Risk Estimation</strong> (Aug 2022 – Aug 2023, manager – Dr. Yifan Sun): Proposed a framework for ranking models based on estimated risks with respect to out‑of‑distribution data.</li>
+        <li><strong>Visual Object Segmentation</strong> (Feb 2022 – Aug 2022, manager – Dr. Jinglu Wang): Investigated memory management challenges in semi‑supervised visual object segmentation.</li>
+        <li><strong>Synthetic Data for Multi‑Object Tracking</strong> (Aug 2020 – Nov 2021, supervisor –  Prof. Liang Zheng): Built an engine to synthesise multi‑object tracking data with controllable factors and analysed impact factors for tracking.</li>
+        <li><strong>Fine‑grained Personal Re‑Identification</strong> (Sep 2020 – Oct 2021, supervisor –  Prof. Liang Zheng): Extended face recognition systems to personal re‑identification tasks.</li>
+        <li><strong>Semi‑Supervised Face Recognition</strong> (Aug 2019 – Mar 2020, manager – Dr. Hailin Shi): Enhanced model robustness against noisy pseudo‑labels in semi‑supervised face recognition.</li>
+        <li><strong>Improve Micro‑Expression Recognition by Synthetic Data</strong> (Feb 2019 – Mar 2022, supervisor –  Prof. Liang Zheng): Synthesised a large‑scale micro‑expression dataset and investigated computational properties of micro‑expression recognition.</li>
+        <li><strong>Semantic Alignment of Physiological Signals</strong> (Feb 2018 – Nov 2018, supervisor – Prof. Tom Gedeon): Aligned sub‑elements from different physiological signals into a shared feature space as part of an honours project.</li>
+      </ul>
+    </td></tr>
+  </table>
+
+  <span class="spacer"></span>
+
+  <!-- Patents -->
+  <table>
+    <tr><td style="padding:20px; width:100%;">
+      <heading>Patents</heading>
+      <ul>
+        <li>Multi‑network model training method, image annotation method and face image recognition method (2020).</li>
+        <li>Training method and device of machine learning model, face recognition method and device (2020).</li>
+      </ul>
+    </td></tr>
+  </table>
+
+  <span class="spacer"></span>
+
+  
+
+  
+
+  <span class="spacer"></span>
+  <p style="text-align:center; font-size:12px; color:#999;">Last updated: 2 August 2025 (Australia/Sydney timezone).</p>
+</body>
+</html>
